@@ -48,20 +48,18 @@ I'm open to collaborating on **AI automation, agentic AI systems, and full-stack
 
 ## GitHub stats
 
-<!-- Replace every instance of YOUR_GITHUB_USERNAME with your actual GitHub username. -->
-
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9" alt="Inigo's GitHub stats" />
+  <a href="https://github.com/inigoromano">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=inigoromano&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9" alt="Inigo's GitHub stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Inigo's most-used languages" />
+  <a href="https://github.com/inigoromano">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inigoromano&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Inigo's most-used languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Inigo's GitHub contribution streak" />
+  <a href="https://github.com/inigoromano">
+    <img src="https://streak-stats.demolab.com?user=inigoromano&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Inigo's GitHub contribution streak" />
   </a>
 </p>
 
@@ -72,11 +70,11 @@ When I'm not working, you'll usually find me **training at the gym, shooting vid
 ## Connect with me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/inigoromano"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/inigoromano"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/inigoromano"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/inigoromano"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:hello@inigoromano.dev"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
