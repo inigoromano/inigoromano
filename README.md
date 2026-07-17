@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring AI Solutions Engineer building agentic AI, automation systems, and full-stack products</h3>
 
 <p align="center">
-  <a href="https://inigoromano.dev"><img src="https://img.shields.io/badge/Portfolio-your--site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://inigoromano.dev"><img src="https://img.shields.io/badge/Portfolio-inigoromano.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:hello@inigoromano.dev"><img src="https://img.shields.io/badge/Email-Let's%20talk-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
