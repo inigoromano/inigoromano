@@ -46,23 +46,6 @@ I'm not tied to a single industry — I'm interested in applying AI and automati
 
 I'm open to collaborating on **AI automation, agentic AI systems, and full-stack products across any industry** — real estate is just where I'm currently building. You can also ask me about full-stack development, Make.com workflows, Claude API integrations, and MCP servers.
 
-## GitHub stats
-
-<p align="center">
-  <a href="https://github.com/inigoromano">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=inigoromano&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9" alt="Inigo's GitHub stats" />
-  </a>
-  <a href="https://github.com/inigoromano">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inigoromano&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Inigo's most-used languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/inigoromano">
-    <img src="https://streak-stats.demolab.com?user=inigoromano&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Inigo's GitHub contribution streak" />
-  </a>
-</p>
-
 ## Beyond the screen
 
 When I'm not working, you'll usually find me **training at the gym, shooting video, or gaming**.
